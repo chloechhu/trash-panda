@@ -1,0 +1,4 @@
+repository "Trash Panda/Trash Panda@20066448386970@cloud"
+  path "/"
+    br "/main"
+    co "/main"
